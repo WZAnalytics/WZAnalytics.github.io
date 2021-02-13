@@ -1,0 +1,29 @@
+.u-section-1 {
+  background-image: url("images/Beijing Stadium 1600x1020 WZ Analytics regular Chinese .png");
+  min-height: 1024px;
+  background-position: 50% 50%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 {
+    min-height: 844px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 {
+    min-height: 646px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 {
+    min-height: 485px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 {
+    min-height: 305px;
+  }
+}
