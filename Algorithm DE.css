@@ -24,21 +24,22 @@
   font-size: 1.875rem;
   background-image: none;
   font-weight: normal;
-  margin: 120px 302px 0 309px;
+  margin: 120px auto 0 auto;
+  text-align: center;
 }
 
 .u-section-1 .u-line-1 {
-  width: 550px;
+  width: 650px;
   height: 3px;
   transform-origin: left center 0px;
-  margin: 0 auto 0 282px;
+  margin: 0 auto 0 220px;
 }
 
 .u-section-1 .u-line-2 {
-  width: 550px;
+  width: 650px;
   height: 3px;
   transform-origin: left center 0px;
-  margin: 10px auto 0 309px;
+  margin: 10px auto 0 260px;
 }
 
 .u-section-1 .u-custom-html-1 {
@@ -78,20 +79,19 @@
 
   .u-section-1 .u-text-2 {
     width: auto;
-    margin-top: 116px;
-    margin-right: 191px;
-    margin-left: 224px;
+    margin-top: 120px;
+    text-align: center;
   }
 
   .u-section-1 .u-line-1 {
     transform-origin: right center 0px;
-    margin-top: -3px;
-    margin-left: 178px;
+    margin-top: 0px;
+    margin-left: 140px;
   }
 
   .u-section-1 .u-line-2 {
     transform-origin: right center 0px;
-    margin-left: 212px;
+    margin-left: 170px;
   }
 
   .u-section-1 .u-custom-html-1 {
@@ -132,17 +132,16 @@
 
   .u-section-1 .u-text-2 {
     margin-top: 80px;
-    margin-left: 97px;
-    margin-right: 97px;
+    text-align: center;
   }
 
   .u-section-1 .u-line-1 {
     margin-top: 0;
-    margin-left: 74px;
+    margin-left: 15px;
   }
 
   .u-section-1 .u-line-2 {
-    margin-left: 97px;
+    margin-left: 55px;
   }
 
   .u-section-1 .u-custom-html-1 {
@@ -194,13 +193,13 @@
   }
 
   .u-section-1 .u-line-1 {
-    width: 540px;
-    margin-left: -1px;
+    width: 350px;
+    margin-left: 90px;
   }
 
   .u-section-1 .u-line-2 {
-    width: 540px;
-    margin-left: -1px;
+    width: 350px;
+    margin-left: 120px;
   }
 
   .u-section-1 .u-custom-html-1 {
@@ -268,14 +267,17 @@
 
   .u-section-1 .u-shape-1 {
     margin-left: 5px;
+    margin-top: -395px;
   }
 
   .u-section-1 .u-shape-2 {
     margin-left: 5px;
+    margin-top: 109px;
   }
 
   .u-section-1 .u-shape-3 {
     margin-left: 5px;
+    margin-top: 109px;
   }
 
   .u-section-1 .u-shape-4 {

@@ -81,6 +81,10 @@
     margin-right: initial;
     margin-left: initial;
   }
+
+
+/*Section 2*/
+
 }.u-section-2 .u-sheet-1 {
   min-height: 971px;
 }
@@ -103,7 +107,7 @@
 
 .u-section-2 .u-text-4 {
   font-size: 1.125rem;
-  margin: 20px 530px 0;
+  margin: 20px 520px 0;
 }
 
 .u-section-2 .u-text-5 {
@@ -183,12 +187,15 @@
     margin-top: 78px;
     margin-right: 283px;
     margin-left: 28px;
+    margin-bottom: 80px;
   }
 
   .u-section-2 .u-image-1 {
     width: 242px;
     height: 242px;
-    margin-left: 458px;
+    margin-left: 490px;
+    margin-top: -410px;
+    margin-bottom: 180px;
   }
 }
 
@@ -236,8 +243,8 @@
     height: 138px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: -486px;
-    margin-bottom: 408px;
+    margin-top: -590px;
+    margin-bottom: 468px;
 
   }
 }
