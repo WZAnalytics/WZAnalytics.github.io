@@ -101,11 +101,9 @@
   }
 
   .u-section-1 .u-image-1 {
-    height: 60px;
+    height: 80px;
     margin-top: 80px;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
+    object-fit: scale-down;
   }
 
   .u-section-1 .u-form-1 {
@@ -130,7 +128,7 @@
   }
 
   .u-section-1 .u-image-1 {
-    height: 45px;
+    height: 80px;
     margin-top: 60px;
     width: auto;
     margin-right: initial;
@@ -163,7 +161,7 @@
   }
 
   .u-section-1 .u-image-1 {
-    height: 28px;
+    height: 80px;
     width: auto;
     margin-right: initial;
     margin-left: initial;

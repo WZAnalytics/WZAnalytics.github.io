@@ -80,6 +80,9 @@
     margin-right: initial;
     margin-left: initial;
   }
+
+/*Section 2*/
+
 }.u-section-2 .u-sheet-1 {
   min-height: 971px;
 }
@@ -160,7 +163,7 @@
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 100vh;
+    min-height: 1000px;
   }
 
   .u-section-2 .u-text-2 {

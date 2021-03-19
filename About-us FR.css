@@ -9,8 +9,7 @@
 .u-section-1 .u-image-1 {
   width: auto;
   height: 80px;
-  object-position: 50% 0%;
-  margin: 120px auto 0;
+  margin: 120px auto 0 auto;
 }
 
 .u-section-1 .u-image-2 {
@@ -31,14 +30,16 @@
   }
 
   .u-section-1 .u-image-1 {
-    margin-top: 80px;
+    border-style: solid;
+    border-color: black;
+    margin: 80px auto 0 auto;
     height: 70px;
   }
 
   .u-section-1 .u-image-2 {
     height: 388px;
-    margin-right: initial;
-    margin-left: initial;
+    margin-right: auto;
+    margin-left: auto;
     width: auto;
   }
 }
