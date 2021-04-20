@@ -5433,7 +5433,7 @@ a {
   left: 0px;
   width: 100%;
   text-align: center;
-  color: #fff;
+  color: #ff6bfb;
   padding: 20px 0px 20px 0px;
   border: none;
 }
@@ -5468,7 +5468,7 @@ a {
   z-index: 1;
 }
 .u-form-send-error {
-  background: #F95D51;
+  background: #515c92;
 }
 .u-form-send-success {
   background: #62C584;
